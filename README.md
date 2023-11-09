@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagosimoes.o74@gmail.com)
 
 Tenho 24 anos, sou estudante do curso de **Análise e Desenvolvimeno de Sistemas** na UNINASSAU. 
-Gosto bastante de treinar, andar de bike, ir a praia e jogar CS.
+Gosto bastante de treinar musculação, andar de bicicleta, ir a praia e jogos digitais.
 
 ## Minhas Habilidades e Ferramentas
 
